@@ -1,2 +1,2 @@
 # Rescora-Wagner-and-Temporal-Difference-Learning
-Python implementation of the RW and TD learning algorithms discussed in Dayan and Abbott (2001).
+Python implementation of the Rescora-Wagner and temporal difference learning algorithms discussed in Dayan and Abbott (2001).
